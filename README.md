@@ -9,10 +9,6 @@
 <h2 align="left">Skills and Experience</h2>
 
 ###
-
-<p align="left">🎨 Frontend Magic: Using React JS with Vite and Angular, I’ve crafted responsive and dynamic user interfaces with a touch of custom design, all optimized for performance.<br><br>⚙️ Backend Power: Built with Java, PHP, Python and R, focusing on clean architecture, without the overhead of Spring Boot, ensuring maintainability and scalability.<br><br>🗃️ Data Mastery: Handling everything from MongoDB NoSQL databases to big data processing with Apache Spark, including exporting data to Excel and CSV.<br><br>🤖 AI & ML Integration: Featuring projects with machine learning models (Logistic Regression, k-NN, Decision Trees, etc.), seamlessly integrated into Django for API deployment.<br><br>🌐 Microservices & Messaging: Designed microservices architecture using Docker and Kafka, ensuring scalable and resilient applications.<br><br>🔒 Security Focus: Check out my microservices project designed with top-notch security practices, using JWT and token-based authentication.<br><br>🔄 End-to-End Development: From coding and testing to deploying with CI/CD pipelines, Docker, and beyond—my portfolio covers all aspects of the development lifecycle.<br><br>⚖️ IFRS 9 Compliance: Developed and implemented models adhering to IFRS 9 standards, including Expected Credit Loss (ECL) calculations, PD, LGD, and EAD modeling.</p>
-
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -38,6 +34,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
+
+<p align="left">🎨 Frontend Magic: Using React JS with Vite and Angular, I’ve crafted responsive and dynamic user interfaces with a touch of custom design, all optimized for performance.<br><br>⚙️ Backend Power: Built with Java, PHP, Python and R, focusing on clean architecture, without the overhead of Spring Boot, ensuring maintainability and scalability.<br><br>🗃️ Data Mastery: Handling everything from MongoDB NoSQL databases to big data processing with Apache Spark, including exporting data to Excel and CSV.<br><br>🤖 AI & ML Integration: Featuring projects with machine learning models (Logistic Regression, k-NN, Decision Trees, etc.), seamlessly integrated into Django for API deployment.<br><br>🌐 Microservices & Messaging: Designed microservices architecture using Docker and Kafka, ensuring scalable and resilient applications.<br><br>🔒 Security Focus: Check out my microservices project designed with top-notch security practices, using JWT and token-based authentication.<br><br>🔄 End-to-End Development: From coding and testing to deploying with CI/CD pipelines, Docker, and beyond—my portfolio covers all aspects of the development lifecycle.<br><br>⚖️ IFRS 9 Compliance: Developed and implemented models adhering to IFRS 9 standards, including Expected Credit Loss (ECL) calculations, PD, LGD, and EAD modeling.</p>
+
+###
 
 <div align="left">
  <a href="https://www.youtube.com/@leua.manuel5180"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
