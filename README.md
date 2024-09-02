@@ -1,11 +1,4 @@
 <h1 align="left">Hi, I'm Leu manuel👋</h1>
-
-###
-
-# 💫 About Me:
-I'm currently working on: ECL impairment framework.<br>I’m looking to collaborate on: Big Data and ML projects.<br>I’m looking for help with: Fine-tuning techiniques.<br>I’m currently learning: LLMs.<br>Ask me about: Java & full-stack development.<br>Fun fact: I love optimizing code.
-
-
 ## 🌐 Socials:
 [![Website](Website)](https://behance.net/leumanuel.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leu-manuel/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@leua.manuel5180) 
 
