@@ -14,7 +14,7 @@ I'm currently working on: ECL impairment framework.<br>I’m looking to collabor
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leupesquisa&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leupesquisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Leupesquisa&icon=0&color=0)](https://visitcount.itsvg.in)
