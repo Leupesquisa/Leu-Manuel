@@ -1,7 +1,5 @@
 <h1 align="left">Hi, I'm Leu manuel👋</h1>
 
-# 💫 About Me:
-I'm currently working on: An impairment prediction system.<br>I’m looking to collaborate on: Big Data and ML projects.<br>I’m looking for help with: Fine-tuning techiniques.<br>I’m currently learning: LLMs.<br>Ask me about: Java & full-stack development.<br>Fun fact: I love optimizing code.
 
 
 ## 🌐 Socials:
