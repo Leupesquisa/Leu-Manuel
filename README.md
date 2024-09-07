@@ -12,5 +12,5 @@
 
 [![GitHub Logo](https://github.com/Leupesquisa/Leupesquisa/blob/main/leumanuel_diagram.png)](https://github.com/)
 
-# 💻 Tech Stack:
+- 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leupesquisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
