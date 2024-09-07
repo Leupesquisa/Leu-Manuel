@@ -14,11 +14,6 @@
 
 [![Portfolio](https://github.com/Leupesquisa/Leupesquisa/blob/main/leumanuel_diagram.png)](https://github.com/Leupesquisa/FullStack-Development)
 
-- [Portfolio Full Stack](https://github.com/Leupesquisa/FullStack-Development)
-- [Portfolio Data Science](https://github.com/Leupesquisa/Portfolio-DataScience)
-- [Portfolio Big Data Analytics](https://github.com/Leupesquisa/BigDataAnalytics)
-- [Portfolio Business Intelligence](https://github.com/Leupesquisa/Portfolio-BI)
-
 
 # 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leupesquisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
