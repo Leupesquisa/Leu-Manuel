@@ -13,10 +13,10 @@
 <img src="leumanuel_diagram.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="_self" alt="Portfolio-FullStack" title="Portfolio-FullStack" href="https://github.com/Leupesquisa/FullStack-Development" coords="245,153,6,3" shape="rect">
-    <area target="_self" alt="Portfolio-DataScience" title="Portfolio-DataScience" href="https://github.com/Leupesquisa/Portfolio-DataScience" coords="605,160,360,2" shape="rect">
-    <area target="_self" alt="Portfolio-BigDataAnalytcs" title="Portfolio-BigDataAnalytcs" href="https://github.com/Leupesquisa/BigDataAnalytics" coords="9,201,251,374" shape="rect">
-    <area target="_self" alt="Portfolio-BI" title="Portfolio-BI" href="https://github.com/Leupesquisa/Portfolio-BI" coords="619,372,376,204" shape="rect">
+    <area target="_blank" alt="Portfolio-FullStack" title="Portfolio-FullStack" href="https://github.com/Leupesquisa/FullStack-Development" coords="245,153,6,3" shape="rect">
+    <area target="_blank" alt="Portfolio-DataScience" title="Portfolio-DataScience" href="https://github.com/Leupesquisa/Portfolio-DataScience" coords="605,160,360,2" shape="rect">
+    <area target="_blank" alt="Portfolio-BigDataAnalytcs" title="Portfolio-BigDataAnalytcs" href="https://github.com/Leupesquisa/BigDataAnalytics" coords="9,201,251,374" shape="rect">
+    <area target="_blank" alt="Portfolio-BI" title="Portfolio-BI" href="https://github.com/Leupesquisa/Portfolio-BI" coords="619,372,376,204" shape="rect">
 </map>
 
 # 💻 Tech Stack:
