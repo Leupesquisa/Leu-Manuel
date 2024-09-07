@@ -5,7 +5,7 @@
 
 - I'm a **Full Stack Developer** and **Credit Risk Model Analyst** with over **7+ years of experience** working in diverse domains like full stack development, machine learning, backend development, and data engineering.
 
--  💼 Checkout My GitHub Repositories: [Full Stack](https://github.com/your-username/system-design), [Data Science](https://github.com/your-username/low-level-design), [Big Data Analytics](https://github.com/your-username/leetcode-solutions),[ Business Intellignece](https://github.com/your-username/behavioral-interviews)
+-  💼 Checkout My GitHub Repositories: [Full Stack](https://github.com/your-username/system-design), [Data Science](https://github.com/your-username/low-level-design), [Big Data Analytics](https://github.com/your-username/leetcode-solutions),[ Business Intelligence](https://github.com/your-username/behavioral-interviews)
 
 - Feel free to explore and contribute to any of my repositories!
 
